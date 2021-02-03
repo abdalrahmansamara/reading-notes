@@ -1,7 +1,9 @@
 ![](https://www.google.jo/url?sa=i&url=https%3A%2F%2Fwww.inc.com%2Flarry-robertson%2Fa-growth-mindset-is-powerful-but-only-if-you-know-how-to-use-it.html&psig=AOvVaw2HZNkWzz0FCko5PTjHbYCL&ust=1612470848531000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiDqpnIzu4CFQAAAAAdAAAAABAK)
 
 <span style="font-family:Papyrus; font-size:4em;">***Growth Mindset***</span>
+
 ***
+
 <span style="font-family:Papyrus; font-size:1em;">I'm cheering for you if you're not in a growth mentality yet: you now have the potential to leap to a whole new stage in your personal development. </span>
 
 <span style="font-family:Papyrus; font-size:1em;">It helped me develop in three major ways:</span>
