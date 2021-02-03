@@ -5,5 +5,5 @@
 
 | Topic   |      Link      |
 |----------|:-------------:|
-| **Main** | [Main Page](https://abdalrahmansamara.github.io/reading-notes/) |
+| **Main** | [Main Page](https://github.com/abdalrahmansamara) |
 | **Growth mindset** |    [Growth Mindset](https://abdalrahmansamara.github.io/reading-notes/mindset)   |
