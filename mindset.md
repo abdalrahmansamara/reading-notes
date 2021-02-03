@@ -16,16 +16,17 @@ I can certainly recall when that was me. And it will show the way out of it with
 
 ***
 * ## ***Psychological Understanding***
-I am in <span style="font-family:Papyrus; font-size:1em;">Mindset not only kick-started my own self-development but also opened a further door in understanding human psychology.</span>
+<span style="font-family:Papyrus; font-size:1em;">Mindset not only kick-started my own self-development but also opened a further door in understanding human psychology.</span>
 
 
-I am in <span style="font-family:Papyrus; font-size:1em;">Suddenly all the mental games of excuses and blaming used by the men living under the shackles of a fixed mindset made sense.</span>
+<span style="font-family:Papyrus; font-size:1em;">Suddenly all the mental games of excuses and blaming used by the men living under the shackles of a fixed mindset made sense.</span>
 
 
 ***
 * ## ***Extraordinary is… Doable***
 <span style="font-family:Papyrus; font-size:1em;">
 A growth mindset also takes away top performance from the realm of “out of this world”, “genius” or whatever you have it and places it within reach of each one of us (willing to put in the work). </span>
+
 <span style="font-family:Papyrus; font-size:1em;">
 Because here’s the secret nobody wants you to know: every single top performer busts his ass. And they’re no better than you, and if you put in the work you will do just as extraordinarily.
 </span>
