@@ -24,3 +24,5 @@ A growth mindset also takes away top performance from the realm of “out of thi
 <span style="font-family:Papyrus; font-size:1em;">
 Because here’s the secret nobody wants you to know: every single top performer busts his ass. And they’re no better than you, and if you put in the work you will do just as extraordinarily.
 </span>
+
+![Main Page](https://abdalrahmansamara.github.io/reading-notes)
