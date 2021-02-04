@@ -113,3 +113,6 @@ When making sense of a design, we tend to organize visual elements into groups. 
 ## Designing Navigation
 
 Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles. .
+
+
+# [Main Page](https://abdalrahmansamara.github.io/reading-notes/)
