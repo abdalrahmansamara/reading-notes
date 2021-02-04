@@ -9,3 +9,4 @@
 | **Growth mindset** |    [Growth Mindset](https://abdalrahmansamara.github.io/reading-notes/mindset)   |
  **Reflection and Descussion** | [Summary ch1+8+17+18](Reflection_and_Discussion.md)
  **MarkDown** | [Learning MarkDown](LearingMarkdown.md)
+ **getting started with Git** | [Gitintro](gitintro.md)
