@@ -11,3 +11,4 @@
  **MarkDown** | [Learning MarkDown](LearingMarkdown.md)
  **getting started with Git** | [Gitintro](gitintro.md)
  **Functions** | [IntroScript](summary6.md)
+ | **loops** | [Loops](summary7.md)
