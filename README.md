@@ -10,9 +10,7 @@
  **Reflection and Descussion** | [Summary ch1+8+17+18](Reflection_and_Discussion.md)
  **MarkDown** | [Learning MarkDown](LearingMarkdown.md)
  **getting started with Git** | [Gitintro](gitintro.md)
-<<<<<<< HEAD
- **Functions** | [Functions](functions.md)
-=======
- **Functions** | [IntroScript](summary6.md)
- | **loops** | [Loops](summary7.md)
->>>>>>> e84735b5fef60b68c63dc0d5378e7d0c6667d572
+**Functions** | [Functions](functions.md)
+**Introscript** | [IntroScript](summary6.md)
+**loops** | [Loops](summary7.md)
+**CSS color** | [Color](color.md)
