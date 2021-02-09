@@ -10,3 +10,4 @@
  **Reflection and Descussion** | [Summary ch1+8+17+18](Reflection_and_Discussion.md)
  **MarkDown** | [Learning MarkDown](LearingMarkdown.md)
  **getting started with Git** | [Gitintro](gitintro.md)
+ **Functions** | [Functions](functions.md)
