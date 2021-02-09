@@ -9,4 +9,4 @@ Function names can contain letters, digits, underscores, and dollar signs (same 
 When JavaScript reaches a return statement, the function will stop executing.
 
 If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.   
-Functions can be used the same way as you use variables, in all types of formulas, assignments, and calculations.   
+Functions can be used the same way as you use variables, in all types of formulas, assignments, and calculations.    
