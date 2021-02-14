@@ -8,7 +8,7 @@
 | Topic   |      Link      |
 |----------|:-------------:|
 | **rading 1** |[1](1.md) |
-| **reading 2** |[2](2.md)   |
+| **reading 2** |[2](class-02.md)   |
  **reading 3** |[3](3.md)
  **reading 4** |[4](4.md)
  **reading 5** |[5](5.md)
