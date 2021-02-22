@@ -13,7 +13,7 @@
  **reading 4** |[4](class-04.md)
  **reading 5** |[5](class-05.md)
 **reading 6** |[6](class-06.md)
-**reading 7** |[7](7.md)
+**reading 7** |[7](class-07.md)
 **reading 8** |[8](8.md)
 **reading 9** |[9](9.md)
 **reading 10** |[10](10.md)
