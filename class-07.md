@@ -11,7 +11,6 @@ Domain modeling is the process of creating a conceptual model for a specific pro
 * Use the this variable within methods so you can access the object's properties and methods from inside.
 
 # Tables
-127 TABLES
 There are several types of information
 that need to be displayed in a grid or
 table. For example: sports results, stock
