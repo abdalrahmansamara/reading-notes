@@ -18,7 +18,7 @@
 **reading 9** |[9](class-09.md)
 **reading 10** |[10](class-10.md)
 **reading 11** |[11](class-11.md)
-**reading 12** |[12](12.md)
+**reading 12** |[12](class-12.md)
 **reading 13** |[13](13.md)
 **reading 14** |[14](14.md)
 **reading 15** |[15](15.md)
