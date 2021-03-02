@@ -20,5 +20,5 @@
 **reading 11** |[11](class-11.md)
 **reading 12** |[12](class-12.md)
 **reading 13** |[13](class-13.md)
-**reading 14** |[14](14.md)
-**reading 15** |[15](15.md)
+**reading 14** |[14 a](class14-a.md)
+**reading 15** |[14 b](class14-b.md)
