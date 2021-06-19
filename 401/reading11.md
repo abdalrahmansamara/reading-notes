@@ -22,4 +22,4 @@ As we mentioned earlier, each NumPy array can store elements of a single data ty
 
 ## jupyterlab
 
-JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. For a demonstration of JupyterLab and its features, you can view this video:
+JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner.
