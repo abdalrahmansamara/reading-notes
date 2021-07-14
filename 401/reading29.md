@@ -233,7 +233,7 @@ urlpatterns = [
 Create a urls.py file in the accounts app.
 
 
-```(accounts) $ touch accounts/urls.py```
+``` (accounts) $ touch accounts/urls.py ```
 
 Then fill in the following code:
 
