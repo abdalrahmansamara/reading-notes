@@ -58,5 +58,3 @@ class Welcome extends React.Component {
 ```
 
 The above two components are equivalent from React’s point of view.
-
-![](https://miro.medium.com/max/1084/1*rDRBsktYbw_aojp9eXi-hg.png)
