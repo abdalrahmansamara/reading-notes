@@ -33,9 +33,9 @@ Keys used to identify which items have changed, are added, or are removed , extr
 ## Forms
 Controlled Components are used to handles the submission of the form and has access to the data that the user entered into the form 
 
-<textarea> is a HTML element defines its text by its children
-<select> used to creates a drop-down list like un order list
-<input type="file"> used to choose one or more files from the device storage to be uploaded to a server or manipulated by JavaScript by the File API.
+\<textarea\> is a HTML element defines its text by its children
+\<select\> used to creates a drop-down list like un order list
+\<input type="file"\> used to choose one or more files from the device storage to be uploaded to a server or manipulated by JavaScript by the File API.
 name attribute : used to handle multiple controlled input elements
 
 # Composition vs Inheritance
